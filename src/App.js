@@ -14,7 +14,7 @@ function App() {
 
           
           
-          <Route exact path='/restaurant' element={<Login_success />}/>
+          
         </Routes>
       </Router>
     </>
